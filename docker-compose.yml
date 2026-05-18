@@ -15,7 +15,39 @@ services:
       - ./.env  
     networks:
       - freelancetrackerapp
-
+  SmartProposal:
+    image: zico7/freelance_and_payment_tracker:SmartProposal 
+    build: 
+      context: ./SmartProposal/SmartProposal
+      dockerfile: Dockerfile
+    ports:
+      - "8084:8084"
+    env_file:
+      - ./.env  
+    networks:
+      - freelancetrackerapp
+  MileStoneRiskPredictor:
+    image: zico7/freelance_and_payment_tracker:MileStoneRiskPredictor 
+    build: 
+      context: ./MileStoneRiskPredictor/MileStoneRiskPredictor
+      dockerfile: Dockerfile
+    ports:
+      - "8082:8082"
+    env_file:
+      - ./.env  
+    networks:
+      - freelancetrackerapp
+  SmartInvoiceDisputeAnalyser:
+    image: zico7/freelance_and_payment_tracker:SmartInvoiceDisputeAnalyser 
+    build: 
+      context: ./SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser
+      dockerfile: Dockerfile
+    ports:
+      - "8083:8083"
+    env_file:
+      - ./.env  
+    networks:
+      - freelancetrackerapp
   freelancetracker:
     image: zico7/freelance_and_payment_tracker:freelancetracker  
     build: 
