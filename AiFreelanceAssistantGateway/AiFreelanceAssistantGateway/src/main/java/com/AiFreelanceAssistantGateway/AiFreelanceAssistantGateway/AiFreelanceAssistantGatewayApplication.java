@@ -1,4 +1,4 @@
-package com.freelancerSmartInvoiceDisputeAnalyser.SmartInvoiceDisputeAnalyser;
+package com.AiFreelanceAssistantGateway.AiFreelanceAssistantGateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class SmartInvoiceDisputeAnalyserApplication {
+public class AiFreelanceAssistantGatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SmartInvoiceDisputeAnalyserApplication.class, args);
+		SpringApplication.run(AiFreelanceAssistantGatewayApplication.class, args);
 	}
 
 }
