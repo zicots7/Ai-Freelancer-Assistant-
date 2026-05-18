@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="121a66b1-6563-4240-8053-86bde2a27c00" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/src/main/java/com/AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/src/test/java/com/AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGateway/AiFreelanceAssistantApiGatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/src/main/java/com/freelancerMilestoneRiskPredictor/MilestoneRiskPredictor/MilestoneRiskPredictorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/src/main/java/com/freelancerMilestoneRiskPredictor/MilestoneRiskPredictor/MilestoneRiskPredictorApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/target/classes/com/freelancerMilestoneRiskPredictor/MilestoneRiskPredictor/MilestoneRiskPredictorApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../MilestoneRiskPredictor/MilestoneRiskPredictor/target/classes/com/freelancerMilestoneRiskPredictor/MilestoneRiskPredictor/MilestoneRiskPredictorApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/src/main/java/com/freelancerSmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/src/main/java/com/freelancerSmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/target/classes/com/freelancerSmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/target/classes/com/freelancerSmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/src/main/java/com/freelancerSmartProposal/SmartProposal/SmartProposalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/src/main/java/com/freelancerSmartProposal/SmartProposal/SmartProposalApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/target/classes/SmartProposalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/target/classes/SmartProposalApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/target/classes/com/freelancerSmartProposal/SmartProposal/SmartProposalApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../SmartProposal/SmartProposal/target/classes/com/freelancerSmartProposal/SmartProposal/SmartProposalApplication.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Dsyn4iHz7AGmtid1bpwnaLLYLM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AiFreelanceAssistantApiGatewayApplication.executor": "Run",
+    "Maven.AiFreelanceAssistantApiGateway [clean].executor": "Run",
+    "Maven.AiFreelanceAssistantServer [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.AiFreelanceAssistantApiGatewayApplication.executor": "Run",
+    "git-widget-placeholder": "gateway",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="121a66b1-6563-4240-8053-86bde2a27c00" name="Changes" comment="" />
+      <created>1779085236550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779085236550</updated>
+    </task>
+    <servers />
+  </component>
+</project>
