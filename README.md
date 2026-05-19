@@ -59,7 +59,7 @@ Client (Postman / Swagger UI)
 
 ## Microservices
 
-### 1. Smart Proposal Generator — Port 8081
+### 1. Smart Proposal Generator — Port 8084
 Generates professional client proposals automatically based on project requirements using Gemini AI.
 
 **Endpoint:**
@@ -87,7 +87,7 @@ POST /api/proposal/generate
 
 ---
 
-### 2. Smart Invoice Dispute Analyser — Port 8082
+### 2. Smart Invoice Dispute Analyser — Port 8083
 Analyses freelancer-client disputes using AI and provides fair resolution recommendations based on contract terms and both party arguments.
 
 **Endpoint:**
@@ -116,7 +116,7 @@ POST /api/dispute/resolve
 
 ---
 
-### 3. Milestone Risk Predictor — Port 8083
+### 3. Milestone Risk Predictor — Port 8082
 Analyses current milestone progress and predicts delay risks using AI, providing actionable suggestions to keep projects on track.
 
 **Endpoint:**
@@ -161,7 +161,7 @@ Centralised entry point for all microservices. Handles JWT token validation and 
 
 ---
 
-### 5. Auth Service — Port 8084 *(In Progress)*
+### 5. Auth Service — Port 8081 *(In Progress)*
 Handles user registration, login and JWT token generation and validation.
 
 **Endpoints:**
@@ -254,10 +254,10 @@ mvn spring-boot:run
 Always start services in this order:
 
 ```
-1. auth-service           (Port 8084)
-2. SmartProposal          (Port 8081)
-3. SmartInvoiceDisputeAnalyser  (Port 8082)
-4. MilestoneRiskPredictor (Port 8083)
+1. auth-service           (Port 8081)
+2. SmartProposal          (Port 8084)
+3. SmartInvoiceDisputeAnalyser  (Port 8083)
+4. MilestoneRiskPredictor (Port 8082)
 5. AiFreelanceAssistantGateway  (Port 8080) ← Always last
 ```
 
@@ -270,10 +270,11 @@ Each service has Swagger UI available locally:
 | Service | Swagger URL |
 |---|---|
 | API Gateway (all services) | http://localhost:8080/swagger-ui.html |
-| Proposal Generator | http://localhost:8081/swagger-ui.html |
-| Dispute Analyser | http://localhost:8082/swagger-ui.html |
-| Risk Predictor | http://localhost:8083/swagger-ui.html |
-| Auth Service | http://localhost:8084/swagger-ui.html |
+| Auth Service | http://localhost:8081/swagger-ui.html |
+| Risk Predictor | http://localhost:8082/swagger-ui.html |
+| Dispute Analyser | http://localhost:8083/swagger-ui.html |
+| Proposal Generator | http://localhost:8084/swagger-ui.html |
+
 
 ---
 
@@ -340,8 +341,8 @@ Kubernetes handles service discovery automatically — no external service regis
 | Auth Service | 🔄 In Progress |
 | Docker Compose | ✅ Complete |
 | Kubernetes Configs | ✅ Complete |
-| CI/CD Pipeline | 🔄 In Progress |
-| Production Deployment | 🔄 Pending |
+| CI/CD Pipeline | ✅ Complete |
+| Production Deployment | ✅ Complete Partially without gateway |
 
 ---
 

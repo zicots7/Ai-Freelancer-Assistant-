@@ -4,7 +4,7 @@ networks:
 
 services: 
   SmartProposal:
-    image: zico7/freelance_and_payment_tracker:SmartProposal 
+    image: zico7/ai_freelancer_assistant:SmartProposal 
     build: 
       context: ./SmartProposal/SmartProposal
       dockerfile: Dockerfile
@@ -15,7 +15,7 @@ services:
     networks:
       - AiFreelancerAssitant
   MileStoneRiskPredictor:
-    image: zico7/freelance_and_payment_tracker:MileStoneRiskPredictor 
+    image: zico7/ai_freelancer_assistant:MileStoneRiskPredictor 
     build: 
       context: ./MileStoneRiskPredictor/MileStoneRiskPredictor
       dockerfile: Dockerfile
@@ -26,7 +26,7 @@ services:
     networks:
       - AiFreelancerAssitant
   SmartInvoiceDisputeAnalyser:
-    image: zico7/freelance_and_payment_tracker:SmartInvoiceDisputeAnalyser 
+    image: zico7/ai_freelancer_assistant:SmartInvoiceDisputeAnalyser 
     build: 
       context: ./SmartInvoiceDisputeAnalyser/SmartInvoiceDisputeAnalyser
       dockerfile: Dockerfile
