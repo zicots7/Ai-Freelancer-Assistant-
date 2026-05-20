@@ -191,6 +191,30 @@ GET  /api/auth/validate
 
 ---
 
+## Screenshots
+
+### Swagger UI — All Services Documented
+
+| Smart Proposal Generator | Smart Invoice Dispute Analyser | Milestone Risk Predictor |
+|---|---|---|
+| ![](Screenshots/Swagger-UI-Smart-Proposal.png) | ![](Screenshots/Swagger-UI-Smart-Invoice-Dispute-Analyser.png) | ![](Screenshots/Swagger-UI-Milestone-Prediction.png) |
+| ![](Screenshots/Swagger-Response-Smart-Proposal.png) | ![](Screenshots/Swagger-Response-Smart-Invoice-Dispute-Analyser.png) | ![](Screenshots/Swagger-response-Milestone-Risk-Prediction.png) |
+
+---
+
+### Live AI Responses — Postman
+
+| Smart Proposal Generator | Smart Invoice Dispute Analyser | Milestone Risk Predictor |
+|---|---|---|
+| ![](Screenshots/Postman-Smart-Proposal.png) | ![](Screenshots/Postman-Smart-Invoice-Dispute-Analyser.png) | ![](Screenshots/Postman-Milestone-Risk-Prediction.png) |
+
+---
+
+### Docker Compose — All Services Running
+![](Screenshots/Docker-Compose-running.png)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
