@@ -334,9 +334,9 @@ Kubernetes handles service discovery automatically — no external service regis
 
 | Service | Status |
 |---|---|
-| Smart Proposal Generator | ✅ Complete — tested via Postman |
-| Smart Invoice Dispute Analyser | ✅ Complete — tested via Postman |
-| Milestone Risk Predictor | ✅ Complete — tested via Postman |
+| Smart Proposal Generator | ✅ Complete — tested via Postman | ✅ Complete — API Documentation via Swagger |
+| Smart Invoice Dispute Analyser | ✅ Complete — tested via Postman | ✅ Complete — API Documentation via Swagger |
+| Milestone Risk Predictor | ✅ Complete — tested via Postman | ✅ Complete — API Documentation via Swagger |
 | API Gateway | 🔄 In Progress |
 | Auth Service | 🔄 In Progress |
 | Docker Compose | ✅ Complete |
